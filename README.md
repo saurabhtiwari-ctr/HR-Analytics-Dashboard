@@ -1,6 +1,6 @@
 # HR-Data-Analysis (Interactive Dashboard creation using MS Excel and Tableau)
 ## Project Objective
-This project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization. The dataset used for analysis contains several columns related to employee information as stated below.
+This project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization. The dataset used for analysis contains several columns related to employee information.
 ## Dataset used (Raw dataset)
 -	<a href="https://github.com/saurabhtiwari-ctr/HR-Analytics-Dashboard/blob/main/HR_Analytics%20(1).xlsx"> HR-Analytics-Raw Data</a>
 
