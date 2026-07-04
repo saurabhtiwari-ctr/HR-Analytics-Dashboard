@@ -1,6 +1,6 @@
 # HR-Data-Analysis (Interactive Dashboard creation using MS Excel and Tableau)
 ## Project Objective
-
+This project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization. The dataset used for analysis contains several columns related to employee information as stated below.
 ## Dataset used (Raw dataset)
 -	<a href="https://github.com/saurabhtiwari-ctr/HR-Analytics-Dashboard/blob/main/HR_Analytics%20(1).xlsx"> HR-Analytics-Raw Data</a>
 
@@ -46,3 +46,4 @@
 -	Maximum Training are in Research and Development about (961 time).
 
 ## Final Conclusion
+Age group between 18-25 , Single Marital status , Over time working worker, and sales representative job role are maximum possibility to leave the job. Research and Development are the best Department on the bases of Environment Satisfaction , Number of job role, Maximum percent salary hike, and better work life balance.
